@@ -19,7 +19,7 @@
 
 ## 🔍 What Is It?
 
-The USDT Flash Tool is a desktop application that interacts with blockchain services to **simulate or expedite USDT transactions**. It's designed for testnet environments, learning, and infrastructure testing—not for bypassing legitimate blockchain mechanics.
+The USDT Flash Tool is a desktop application that interacts with blockchain services to **simulate or expedite USDT transactions**. It's designed for testnet environments, learning, and infrastructure testing not for bypassing legitimate blockchain mechanics.
 
 > ⚠️ **Note:** This software is intended for educational and development use only. Make sure to comply with local laws and platform guidelines when deploying or testing.
 
