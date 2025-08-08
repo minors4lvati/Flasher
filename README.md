@@ -45,9 +45,9 @@ The USDT Flash Tool is a desktop application that interacts with blockchain serv
 ### 🖥️ Cross-Platform
 
 - Compatible with:
-  - Windows 10/11
-  - macOS (Intel & Apple Silicon)
+  - Windows 7/8/10/11
   - iOS and Android devices with browser (Chrome/Safari)
+  - macOS (Intel & Apple Silicon)
   - Most Linux distributions (Ubuntu/Debian-based preferred)
 
 ### 📈 Built-in Activity Log
